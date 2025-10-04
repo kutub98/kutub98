@@ -1,22 +1,25 @@
-<!-- Header Section -->
-<div align="center" style="background: linear-gradient(135deg, #6f42c1, #0d6efd, #20c997); padding: 30px; border-radius: 15px; color: white;">
-  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="180" style="border-radius: 50%; border: 4px solid white;" alt="Kutub Uddin"/>
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <!-- Profile Picture -->
+      <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius:50%;" alt="Kutub Uddin"/>
+      <h2>Kutub Uddin</h2>
+      <h4>💻 Web Developer | 🚀 Tech Enthusiast</h4>
+    </td>
+    <td width="60%" valign="top">
+      <!-- About Me -->
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        🔭 Currently working on <b>Web Development Projects</b> <br/>
+        🌱 Learning <b>Next.js & TypeScript</b> <br/>
+        👯 Looking to collaborate on <b>Open Source Projects</b> <br/>
+        📫 Reach me at: <b>kutubuddin98710@gmail.com</b> <br/>
+        ⚡ Fun fact: <i>I love coding late at night 🌙</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <h1>Hi 👋, I'm Kutub Uddin</h1>
-  <h3>💻 Web Developer | 🚀 Tech Enthusiast</h3>
-</div>
-
----
-
-## 👨‍💻 About Me  
-- 🔭 I’m currently working on **Full-Stack Web Development Projects**  
-- 🌱 I’m learning **Next.js & TypeScript**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB**  
-- 📫 Reach me at: **kutubuddin98710@gmail.com**  
-- ⚡ Fun fact: *I enjoy late-night coding 🌙*  
-
----
 
 ## 🌐 Connect with Me  
 <p align="center">
