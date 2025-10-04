@@ -83,13 +83,6 @@ Author: Kutub Uddin
 
 ---
 
-## 🌟 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [🔗 Portfolio Website](https://kutub98.github.io/) | Personal portfolio showcasing my work and blogs. | Next.js, TailwindCSS |
-| [🚀 Quiz Contest App](https://github.com/kutub98/quiz-contest) | Interactive quiz app with leaderboard & API integration. | React, Node.js, MongoDB |
-| [🧠 AI Text Analyzer](#) | Analyze, summarize, and improve text using AI. | Next.js, OpenAI API |
-
 ---
 
 ## 👥 Contributors & Visitors
