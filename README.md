@@ -6,7 +6,6 @@
 <h1 align="center">Hi there 👋, I'm Kutub Uddin</h1>
 <h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast</h3>
 
----
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Development Projects**  
