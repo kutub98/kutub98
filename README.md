@@ -3,13 +3,14 @@
 Author: Kutub Uddin
 -->
 
+<!-- Typing SVG -->
 <div align="center" style="margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
 </div>
 
 ---
 
-<!-- 🧑‍💻 Profile Card -->
+<!-- Profile Card -->
 <div align="center">
 
   <div style="
@@ -23,20 +24,20 @@ Author: Kutub Uddin
     padding: 30px 40px;
     color: white;
     box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-    max-width: 900px;
+    max-width: 950px;
   ">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius: 50%; border: 3px solid #fff;" alt="Kutub Uddin"/>
+    <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="160" style="border-radius: 50%; border: 4px solid #fff;" alt="Kutub Uddin"/>
     <h2 style="margin-top: 10px;">Kutub Uddin</h2>
     <p style="font-size: 16px;">💻 Web Developer | 🚀 Tech Enthusiast</p>
   </div>
 
-  <div style="flex: 2 1 300px; text-align: left;">
+  <div style="flex: 2 1 320px; text-align: left;">
     <h3>👨‍💻 About Me</h3>
     <p>
       🔭 Currently building <b>Full-Stack Web Applications</b><br/>
-      🌱 Exploring <b>Next.js</b> & <b>TypeScript</b> for scalable systems<br/>
+      🌱 Exploring <b>Next.js</b> & <b>TypeScript</b><br/>
       👯 Open to collaborate on <b>Open Source Projects</b><br/>
       📫 Reach me: <a href="mailto:kutubuddin98710@gmail.com" style="color: #fff; font-weight: bold;">kutubuddin98710@gmail.com</a><br/>
       ⚡ Fun fact: <i>I love coding when the world sleeps 🌙</i>
