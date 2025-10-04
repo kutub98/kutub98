@@ -6,7 +6,7 @@ Author: Kutub Uddin
 ---
 
 <!-- Profile Section -->
-<table align="center" width="100%" style="max-width: 950px; background: linear-gradient(135deg, red, yellow); border-radius: 20px; color: white; padding: 25px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
+<table align="center" width="100%" style="max-width: 950px; background: linear-gradient(135deg, #2A7B9B, yellow); border-radius: 20px; color: white; padding: 25px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
   <tr>
     <td align="center" width="35%" style="padding: 15px;">
       <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius: 50%; border: 4px solid #fff;" alt="Kutub Uddin"/><br>
