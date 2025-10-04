@@ -1,20 +1,31 @@
 <!-- Banner/Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150px" style="border-radius:50%;" alt="Profile Image"/>
+  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150px" style="border-radius:50%;" alt="Kutub Uddin"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Kutub Uddin</h1>
 <h3 align="center">💻 Web Developer | 🚀 Tech Enthusiast</h3>
 
+---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Web Development Projects**  
-- 🌱 I’m currently learning **Next.js, TypeScript**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: **kutubuddin98710@gmail.com**  
+- 🔭 Currently working on **Web Development Projects**  
+- 🌱 Learning **Next.js, TypeScript**  
+- 👯 Open to collaborate on **Open Source Projects**  
+- 📫 Reach me at: **kutubuddin98710@gmail.com**  
 - ⚡ Fun fact: *I love coding late at night* 🌙  
 
 ---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/kutub98" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kutubu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -36,17 +47,17 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kutub98&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kutub98&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutub98&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-⭐️ From Kutub Uddin(https://github.com/kutub98)
+⭐️ From [Kutub Uddin](https://github.com/kutub98)
