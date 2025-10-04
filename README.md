@@ -3,11 +3,6 @@
 Author: Kutub Uddin
 -->
 
-<!-- Typing SVG -->
-<div align="center" style="margin-bottom: 25px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
-</div>
-
 ---
 
 <!-- Profile Section -->
