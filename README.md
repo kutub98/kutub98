@@ -17,11 +17,6 @@
 
 ---
 
-## 🌐 Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/kutubu/"><img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png"/></a>
-</p>
-
 ---
 
 ## ⚡ Tech Stack
