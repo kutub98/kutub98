@@ -6,7 +6,7 @@
       <h2>Kutub Uddin</h2>
       <h4>💻 Web Developer | 🚀 Tech Enthusiast</h4>
     </td>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <!-- About Me -->
       <h3>👨‍💻 About Me</h3>
       <p>
