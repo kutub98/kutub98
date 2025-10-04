@@ -15,7 +15,7 @@ Author: Kutub Uddin
   <tr>
     <td align="center" width="35%" style="padding: 15px;">
       <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius: 50%; border: 4px solid #fff;" alt="Kutub Uddin"/><br>
-      <h2>Kutub Uddin</h2>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
       <p>💻 Web Developer | 🚀 Tech Enthusiast</p>
     </td>
     <td width="65%" style="padding: 15px;">
