@@ -1,6 +1,6 @@
 <!-- Banner/Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" width="150px" style="border-radius:50%;" alt="Profile Image"/>
+  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150px" style="border-radius:50%;" alt="Profile Image"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Kutub Uddin</h1>
