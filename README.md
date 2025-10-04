@@ -1,83 +1,80 @@
 <!--
-🌈 Professional, Responsive, and Interactive GitHub Profile README
+🌈 Modern, Responsive & Professional GitHub Profile README
 Author: Kutub Uddin
 -->
 
-<!-- Responsive Profile Card -->
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
+</div>
 
+---
+
+<!-- 🧑‍💻 Profile Card -->
 <div align="center">
 
   <div style="
     display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    justify-content: center;
-    background: linear-gradient(135deg, #00C6FF, #6A00FF);
-    border-radius: 16px;
-    padding: 24px;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-items: center;
+    gap: 40px;
+    background: linear-gradient(135deg, #00C6FF, #0072FF);
+    border-radius: 20px;
+    padding: 30px 40px;
     color: white;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    max-width: 600px;
-    margin: auto;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    max-width: 900px;
   ">
 
-  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="140" style="border-radius: 50%; border: 3px solid white; margin-bottom: 16px;" alt="Kutub Uddin"/>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius: 50%; border: 3px solid #fff;" alt="Kutub Uddin"/>
+    <h2 style="margin-top: 10px;">Kutub Uddin</h2>
+    <p style="font-size: 16px;">💻 Web Developer | 🚀 Tech Enthusiast</p>
+  </div>
 
-  <h2 style="margin: 0;">Kutub Uddin</h2>
-  <h4 style="margin-top: 6px; font-weight: normal;">💻 Web Developer | 🚀 Tech Enthusiast</h4>
-
-  <div style="text-align: left; margin-top: 16px;">
+  <div style="flex: 2 1 300px; text-align: left;">
+    <h3>👨‍💻 About Me</h3>
     <p>
-      🔭 Currently working on <b>Full-Stack Web Applications</b><br/>
-      🌱 Learning <b>Next.js & TypeScript</b><br/>
-      👯 Collaborating on <b>Open Source Projects</b><br/>
-      📫 Reach me: <b><a href="mailto:kutubuddin98710@gmail.com" style="color: #fff;">kutubuddin98710@gmail.com</a></b><br/>
-      ⚡ Fun fact: <i>I love coding late at night 🌙</i>
+      🔭 Currently building <b>Full-Stack Web Applications</b><br/>
+      🌱 Exploring <b>Next.js</b> & <b>TypeScript</b> for scalable systems<br/>
+      👯 Open to collaborate on <b>Open Source Projects</b><br/>
+      📫 Reach me: <a href="mailto:kutubuddin98710@gmail.com" style="color: #fff; font-weight: bold;">kutubuddin98710@gmail.com</a><br/>
+      ⚡ Fun fact: <i>I love coding when the world sleeps 🌙</i>
     </p>
   </div>
-
   </div>
 </div>
-
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/kutub98" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kutubu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kutubuddin98710@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://github.com/kutub98" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kutubu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kutubuddin98710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## ⚙️ Tech Stack
-
-<p align="center">
+<div align="center" style="background: linear-gradient(135deg,#1a1a1a,#232526); border-radius: 16px; padding: 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode" />
-</p>
+</div>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kutub98&theme=algolia&no-frame=true&margin-w=8&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kutub98&theme=radical&margin-w=10&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
+## 📊 GitHub Stats
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kutub98&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kutub98&theme=tokyonight" height="160"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kutub98&theme=react-dark&area=true&hide_border=true"/>
@@ -86,7 +83,6 @@ Author: Kutub Uddin
 ---
 
 ## 🌟 Featured Projects
-
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [🔗 Portfolio Website](https://kutub98.github.io/) | Personal portfolio showcasing my work and blogs. | Next.js, TailwindCSS |
@@ -95,7 +91,7 @@ Author: Kutub Uddin
 
 ---
 
-## 👥 Contributors & Visitors  
+## 👥 Contributors & Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kutub98&style=for-the-badge&color=00C6FF" alt="Profile Views"/>
   <img src="https://contrib.rocks/image?repo=kutub98/kutub98" alt="Contributors" width="120"/>
