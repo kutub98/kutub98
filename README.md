@@ -18,7 +18,6 @@ Author: Kutub Uddin
       <p>
         🔭 Currently building <b>Full-Stack Web Applications</b><br/>
         🌱 Exploring <b>Next.js</b> & <b>TypeScript</b><br/>
-        👯 Open to collaborate on <b>Open Source Projects</b><br/>
         📫 Reach me: <a href="mailto:kutubuddin98710@gmail.com" style="color: #fff; font-weight: bold;">kutubuddin98710@gmail.com</a><br/>
         ⚡ Fun fact: <i>I love coding when the world sleeps 🌙</i>
       </p>
