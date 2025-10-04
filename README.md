@@ -60,6 +60,13 @@
 
 ---
 
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kutub98&theme=github-compact&hide_border=true" alt="Kutub's Contribution Graph"/>
+</p>
+
+---
+
 ## 📌 Featured Projects  
 <p align="center">
   <a href="https://github.com/kutub98/project1">
