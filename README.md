@@ -1,21 +1,25 @@
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" height="150" style="border-radius:50%;" alt="Kutub Uddin"/>
-</p>
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <!-- Profile Picture -->
+      <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius:50%;" alt="Kutub Uddin"/>
+      <h2>Kutub Uddin</h2>
+      <h4>💻 Web Developer | 🚀 Tech Enthusiast</h4>
+    </td>
+    <td width="60%" valign="top">
+      <!-- About Me -->
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        🔭 Currently working on <b>Web Development Projects</b> <br/>
+        🌱 Learning <b>Next.js & TypeScript</b> <br/>
+        👯 Looking to collaborate on <b>Open Source Projects</b> <br/>
+        📫 Reach me at: <b>kutubuddin98710@gmail.com</b> <br/>
+        ⚡ Fun fact: <i>I love coding late at night 🌙</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Hi 👋, I'm Kutub Uddin</h1>
-<h3 align="center">Web Developer | Tech Enthusiast</h3>
-
----
-
-## 👨‍💻 About Me  
-🔭 Currently working on **Web Development Projects**  
-🌱 Learning **Next.js & TypeScript**  
-👯 Looking to collaborate on **Open Source Projects**  
-📫 Reach me at: **kutubuddin98710@gmail.com**  
-⚡ Fun fact: *I love coding late at night* 🌙  
-
----
 
 ## 🌐 Connect with Me  
 <p align="center">
