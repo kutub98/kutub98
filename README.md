@@ -12,10 +12,10 @@ Author: Kutub Uddin
 
 <!-- Profile Card -->
 <div align="center">
+
   <div style="
     display: flex; 
-    flex-direction: row; 
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
     justify-content: center; 
     align-items: center;
     gap: 40px;
@@ -26,47 +26,25 @@ Author: Kutub Uddin
     box-shadow: 0 8px 24px rgba(0,0,0,0.15);
     max-width: 950px;
   ">
-    <!-- Left Side: Image & Name -->
-    <div style="
-      flex: 1 1 250px; 
-      text-align: center;
-      min-width: 200px;
-    ">
-      <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="160" style="border-radius: 50%; border: 4px solid #fff;" alt="Kutub Uddin"/>
-      <h2 style="margin-top: 10px;">Kutub Uddin</h2>
-      <p style="font-size: 16px;">💻 Web Developer | 🚀 Tech Enthusiast</p>
-    </div>
 
-    <!-- Right Side: About Me -->
-    <div style="
-      flex: 2 1 400px; 
-      text-align: left;
-      min-width: 250px;
-    ">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        🔭 Currently building <b>Full-Stack Web Applications</b><br/>
-        🌱 Exploring <b>Next.js</b> & <b>TypeScript</b><br/>
-        👯 Open to collaborate on <b>Open Source Projects</b><br/>
-        📫 Reach me: <a href="mailto:kutubuddin98710@gmail.com" style="color: #fff; font-weight: bold;">kutubuddin98710@gmail.com</a><br/>
-        ⚡ Fun fact: <i>I love coding when the world sleeps 🌙</i>
-      </p>
-    </div>
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="160" style="border-radius: 50%; border: 4px solid #fff;" alt="Kutub Uddin"/>
+    <h2 style="margin-top: 10px;">Kutub Uddin</h2>
+    <p style="font-size: 16px;">💻 Web Developer | 🚀 Tech Enthusiast</p>
+  </div>
+
+  <div style="flex: 2 1 320px; text-align: left;">
+    <h3>👨‍💻 About Me</h3>
+    <p>
+      🔭 Currently building <b>Full-Stack Web Applications</b><br/>
+      🌱 Exploring <b>Next.js</b> & <b>TypeScript</b><br/>
+      👯 Open to collaborate on <b>Open Source Projects</b><br/>
+      📫 Reach me: <a href="mailto:kutubuddin98710@gmail.com" style="color: #fff; font-weight: bold;">kutubuddin98710@gmail.com</a><br/>
+      ⚡ Fun fact: <i>I love coding when the world sleeps 🌙</i>
+    </p>
+  </div>
   </div>
 </div>
-
-<!-- Responsive CSS -->
-<style>
-  @media (max-width: 768px) {
-    div[align="center"] > div {
-      flex-direction: column !important;
-      text-align: center !important;
-    }
-    div[align="center"] h3, div[align="center"] p {
-      text-align: center !important;
-    }
-  }
-</style>
 
 ---
 
