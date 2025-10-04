@@ -3,31 +3,42 @@
 Author: Kutub Uddin
 -->
 
+<!-- Responsive Profile Card -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
+
+  <div style="
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    background: linear-gradient(135deg, #00C6FF, #6A00FF);
+    border-radius: 16px;
+    padding: 24px;
+    color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    max-width: 600px;
+    margin: auto;
+  ">
+
+  <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="140" style="border-radius: 50%; border: 3px solid white; margin-bottom: 16px;" alt="Kutub Uddin"/>
+
+  <h2 style="margin: 0;">Kutub Uddin</h2>
+  <h4 style="margin-top: 6px; font-weight: normal;">💻 Web Developer | 🚀 Tech Enthusiast</h4>
+
+  <div style="text-align: left; margin-top: 16px;">
+    <p>
+      🔭 Currently working on <b>Full-Stack Web Applications</b><br/>
+      🌱 Learning <b>Next.js & TypeScript</b><br/>
+      👯 Collaborating on <b>Open Source Projects</b><br/>
+      📫 Reach me: <b><a href="mailto:kutubuddin98710@gmail.com" style="color: #fff;">kutubuddin98710@gmail.com</a></b><br/>
+      ⚡ Fun fact: <i>I love coding late at night 🌙</i>
+    </p>
+  </div>
+
+  </div>
 </div>
 
----
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="40%">
-      <img src="https://avatars.githubusercontent.com/u/108364104?v=4" width="150" style="border-radius:50%; border:3px solid #00C6FF;" alt="Kutub Uddin"/>
-      <h2 align="center">Kutub Uddin</h2>
-      <h4 align="center">💻 Web Developer | 🚀 Tech Enthusiast</h4>
-    </td>
-    <td valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        🔭 Currently working on <b>Full-Stack Web Applications</b> <br/>
-        🌱 Exploring <b>Next.js</b> & <b>TypeScript</b> for scalable apps <br/>
-        👯 Open to collaborate on <b>Open Source Projects</b> <br/>
-        📫 Reach me at: <b><a href="mailto:kutubuddin98710@gmail.com">kutubuddin98710@gmail.com</a></b> <br/>
-        ⚡ Fun fact: <i>I love coding at 2 AM when the world sleeps 🌙</i>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
