@@ -3,7 +3,7 @@
 Author: Kutub Uddin
 -->
 
-<!-- Typing SVG -->
+<!-- Typing SVG Header -->
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kutub+Uddin+👋;Full+Stack+Web+Developer+💻;Open+Source+Contributor+🚀;Tech+Enthusiast+🌐" />
 </div>
@@ -17,27 +17,27 @@ Author: Kutub Uddin
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #00C6FF, #0072FF);
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
     border-radius: 20px;
     padding: 30px;
     color: white;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-    max-width: 950px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    max-width: 1000px;
     margin: 20px auto;
   ">
 
     <!-- Left Section -->
     <div style="flex: 1 1 250px; text-align: center; margin-bottom: 20px;">
       <img src="https://avatars.githubusercontent.com/u/108364104?v=4" 
-           width="160" 
+           width="180" 
            style="border-radius: 50%; border: 4px solid #fff;" 
            alt="Kutub Uddin"/>
-      <h2 style="margin-top: 10px;">Kutub Uddin</h2>
+      <h2 style="margin-top: 15px;">Kutub Uddin</h2>
       <p style="font-size: 15px;">💻 Full-Stack Web Developer</p>
     </div>
 
     <!-- Right Section -->
-    <div style="flex: 2 1 350px; text-align: left; padding: 0 15px;">
+    <div style="flex: 2 1 400px; text-align: left; padding: 0 20px;">
       <h3>👨‍💻 About Me</h3>
       <p>
         🔭 Currently building <b>Full-Stack Web Applications</b><br/>
@@ -45,7 +45,7 @@ Author: Kutub Uddin
         👯 Open to collaborate on <b>Open Source Projects</b><br/>
         📫 Reach me: 
         <a href="mailto:kutubuddin98710@gmail.com" 
-           style="color: #fff; font-weight: bold;">
+           style="color: #00C6FF; font-weight: bold;">
            kutubuddin98710@gmail.com
         </a><br/>
         ⚡ Fun fact: <i>I love coding when the world sleeps 🌙</i>
@@ -53,7 +53,6 @@ Author: Kutub Uddin
     </div>
   </div>
 </div>
-
 
 ---
 
@@ -67,7 +66,7 @@ Author: Kutub Uddin
 ---
 
 ## ⚙️ Tech Stack
-<div align="center" style="background: linear-gradient(135deg,#1a1a1a,#232526); border-radius: 16px; padding: 20px;">
+<div align="center" style="background: linear-gradient(135deg,#141E30,#243B55); border-radius: 16px; padding: 25px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,vscode" />
 </div>
 
@@ -104,16 +103,18 @@ Author: Kutub Uddin
 ## 👥 Contributors & Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kutub98&style=for-the-badge&color=00C6FF" alt="Profile Views"/>
-  <img src="https://contrib.rocks/image?repo=kutub98/kutub98" alt="Contributors" width="120"/>
+  <img src="https://contrib.rocks/image?repo=kutub98/kutub98" alt="Contributors" width="140"/>
 </p>
 
 ---
 
 ## 🎯 Personal Quote
-> “Code is the bridge between imagination and creation — and I’m here to build bridges.” 💡
+<div align="center" style="font-style: italic; font-size: 18px; color: #555;">
+  “Code is the bridge between imagination and creation — and I’m here to build bridges.” 💡
+</div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00C6FF&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing+Together!+💙" />
 </div>
