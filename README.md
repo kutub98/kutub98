@@ -1,32 +1,41 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kutub%20Uddin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20MERN&descSize=18&descAlignY=58&descColor=a5b4fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f,6366f1,a5b4fc&height=220&section=header&text=Kutub%20Uddin&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60&descColor=a5b4fc"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=PHP+Laravel+Developer+%F0%9F%9A%80;React+%2F+Next.js+Developer+%E2%9A%A1;MERN+Stack+Developer+%F0%9F%8C%90;3%2B+Years+Experience+%7C+50%2B+Projects+%E2%9C%85;Available+for+Remote+%26+Freelance+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=700&color=6366F1&center=true&vCenter=true&width=700&lines=⚡+PHP+Laravel+%7C+React+%7C+Next.js+%7C+MERN+Stack;🚀+3%2B+Years+Experience+%7C+50%2B+Projects+Delivered;🌍+Available+for+Remote+%26+Freelance+Work;💡+Building+Scalable+Web+Applications" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-jmkutub.vercel.app-6366f1?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app)
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download%20PDF-FF2D20?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kutubu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutubu/)
-[![Gmail](https://img.shields.io/badge/Gmail-kutubuddin98710-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kutubuddin98710@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20%20Portfolio-jmkutub.vercel.app-6366f1?style=for-the-badge&labelColor=0d0d1a&logoColor=white)](https://jmkutub.vercel.app)&nbsp;
+[![Resume](https://img.shields.io/badge/📄%20%20Resume-Download%20PDF-e11d48?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app/resume.pdf)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://www.linkedin.com/in/kutubu/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:kutubuddin98710@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=kutub98&style=flat-square&color=6366f1&label=Profile+Views"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kutub98&style=flat-square&color=6366f1&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-<img align="right" src="https://avatars.githubusercontent.com/u/108364104?v=4" width="130" style="border-radius:50%"/>
+## ✦ &nbsp; About Me &nbsp; ✦
+
+</div>
+
+<br/>
+
+<img align="right" src="https://avatars.githubusercontent.com/u/108364104?v=4" width="160" style="border-radius:16px; margin-left:20px"/>
 
 ```typescript
 const kutubUddin = {
   name      : "Kutub Uddin",
-  role      : "Full Stack Developer",
+  title     : "Full Stack Developer",
   location  : "Bangladesh 🇧🇩",
   portfolio : "https://jmkutub.vercel.app",
+
   experience: "3+ years",
   projects  : "50+ delivered",
 
@@ -34,114 +43,129 @@ const kutubUddin = {
     frontend : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend  : ["PHP", "Laravel", "Node.js", "Express.js"],
     database : ["MongoDB", "MySQL"],
-    tools    : ["Git", "Docker", "Vercel", "Cloudinary"],
+    devops   : ["Git", "Docker", "Vercel", "Cloudinary"],
   },
 
-  available : "Remote & Freelance ✅",
-  email     : "kutubuddin98710@gmail.com",
+  currentlyBuilding : "Developer Portfolio + Admin Dashboard",
+  openTo            : ["Remote", "Freelance", "Full-time"],
+  email             : "kutubuddin98710@gmail.com",
 };
 ```
 
-> ⚡ *Fun fact: I love coding when the world sleeps 🌙*
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+## ✦ &nbsp; Tech Stack &nbsp; ✦
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,docker,vercel&perline=9"/>
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d4ed8?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1e293b?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-15803d?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0369a1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f766e?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-713f12?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-7f1d1d?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1e40af?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-1e3a5f?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,nodejs,express,mongodb,mysql,tailwind,git,docker,vercel,vscode,postman&perline=9"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kutub98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kutub98&theme=tokyonight&hide_border=true" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutub98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
-</div>
+## ✦ &nbsp; GitHub Stats &nbsp; ✦
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kutub98&theme=tokyo-night&area=true&hide_border=true&radius=8"/>
-</div>
+<br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=kutub98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=6366f1&icon_color=a5b4fc" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kutub98&theme=tokyonight&hide_border=true&ring=6366f1&fire=e11d48&currStreakLabel=a5b4fc" height="175"/>
 
-## 🏆 GitHub Trophies
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kutub98&theme=tokyonight&margin-w=8&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutub98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6366f1" height="155"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kutub98&theme=tokyo-night&area=true&hide_border=true&radius=8&color=6366f1&line=6366f1&point=a5b4fc"/>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Link |
-|---|---|:---:|
-| 🏢 **SaaS CRM Platform** | Laravel · React · MySQL | [View →](https://jmkutub.vercel.app/projects/saas-crm-platform) |
-| 🛒 **E-Commerce Marketplace** | Next.js · Node.js · MongoDB | [View →](https://jmkutub.vercel.app/projects/ecommerce-marketplace) |
-| 🏥 **Hospital Management System** | Laravel · MySQL · React | [View →](https://jmkutub.vercel.app/projects/hospital-management-system) |
-
-> 🔗 All projects → **[jmkutub.vercel.app/#projects](https://jmkutub.vercel.app/#projects)**
-
----
-
-## 👥 Visitors & Contributors
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kutub98&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-  <img src="https://contrib.rocks/image?repo=kutub98/kutub98" alt="Contributors" width="120"/>
+
+## ✦ &nbsp; Trophies &nbsp; ✦
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kutub98&theme=tokyonight&margin-w=8&no-frame=true&row=1&column=7"/>
+
 </div>
 
 ---
 
-## 💬 Personal Quote
+<div align="center">
+
+## ✦ &nbsp; Featured Projects &nbsp; ✦
+
+</div>
+
+<br/>
+
+| &nbsp; | Project | Stack | Live |
+|:---:|---|---|:---:|
+| 🏢 | **SaaS CRM Platform** | Laravel · React · MySQL · REST API | [→ View](https://jmkutub.vercel.app/projects/saas-crm-platform) |
+| 🛒 | **E-Commerce Marketplace** | Next.js · Node.js · MongoDB · Stripe | [→ View](https://jmkutub.vercel.app/projects/ecommerce-marketplace) |
+| 🏥 | **Hospital Management System** | Laravel · MySQL · React · Auth | [→ View](https://jmkutub.vercel.app/projects/hospital-management-system) |
+
+<div align="center">
+
+🔗 &nbsp; See all 50+ projects → **[jmkutub.vercel.app/#projects](https://jmkutub.vercel.app/#projects)**
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ &nbsp; Hire Me &nbsp; ✦
+
+<br/>
+
+> *Available for **freelance**, **remote**, and **contract** roles.*
+> <br/>
+> *I build fast, scalable, production-ready web applications.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20%20Visit%20Portfolio-jmkutub.vercel.app-6366f1?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app)&nbsp;
+[![Resume](https://img.shields.io/badge/📄%20%20Download%20Resume-PDF-e11d48?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app/resume.pdf)&nbsp;
+[![Email](https://img.shields.io/badge/📧%20%20Email%20Me-D14836?style=for-the-badge&labelColor=0d0d1a&logo=gmail&logoColor=white)](mailto:kutubuddin98710@gmail.com)
+
+<br/><br/>
 
 > *"Code is the bridge between imagination and creation — and I'm here to build bridges."* 💡
 
----
+<br/>
 
-## 🤝 Hire Me
-
-<div align="center">
-
-**Available for freelance projects and remote full-time roles.**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-jmkutub.vercel.app-6366f1?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app)
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-PDF-FF2D20?style=for-the-badge&labelColor=0d0d1a)](https://jmkutub.vercel.app/resume.pdf)
-[![Email](https://img.shields.io/badge/📧_Email_Me-kutubuddin98710@gmail.com-D14836?style=for-the-badge&labelColor=0d0d1a)](mailto:kutubuddin98710@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together.+💙"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a5b4fc,6366f1,0a0a0f&height=130&section=footer"/>
